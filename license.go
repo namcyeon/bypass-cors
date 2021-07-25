@@ -8,7 +8,7 @@ import (
 const (
 	licenseKey = "license"
 	licenseLen = len(licenseKey)
-	licenseUrl = "https://github.com/Shivam010/bypass-cors/blob/master/LICENSE"
+	licenseUrl = "https://bypass-cors/blob/master/LICENSE"
 )
 
 func License(h http.Handler) http.Handler {

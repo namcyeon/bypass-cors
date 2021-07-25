@@ -35,9 +35,9 @@ GET https://joke-api-strict-cors.appspot.com/jokes/ten    ==>    GET https://non
 ### Request for Contribution
 Changes and improvements are more than welcome! 
 
-Feel free to fork, create issues or pull a request [here.](https://github.com/Shivam010/bypass-cors/issues)
+Feel free to fork, create issues or pull a request [here.](https://bypass-cors/issues)
 
 Please make your changes in a specific branch and request to pull into master! If you can please make sure that the changes work properly and does not affect the functioning of the website before sending a Pull Request, as that will help speed up the process.
 
 ### License
-The application, its design and its code all are licensed under the [MIT license.](https://github.com/Shivam010/bypass-cors/blob/master/LICENSE)
+The application, its design and its code all are licensed under the [MIT license.](https://bypass-cors/blob/master/LICENSE)

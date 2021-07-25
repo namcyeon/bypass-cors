@@ -1,4 +1,4 @@
-module github.com/Shivam010/bypass-cors
+module bypass-cors
 
 go 1.12
 

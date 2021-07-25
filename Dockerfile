@@ -22,7 +22,7 @@ WORKDIR /app
 
 COPY --from=build /app/bypass-cors /app/bypass-cors
 
-EXPOSE 9000
+EXPOSE 8080
 
 USER nonroot:nonroot
 
